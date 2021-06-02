@@ -1,4 +1,4 @@
-Hi, I'm Hamed 👋  
+:envelope_with_arrow: Hi, I'm Hamed 👋  
 I’m currently working on:
 - The application of AI in EE
 - Reinforcement learning
