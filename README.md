@@ -18,4 +18,4 @@ Email: hamedmokazemi@gmail.com
   
   
 My interests:  
-[![GitHub](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]  
+![GitHub](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)   ![GitHub](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)   ![GitHub](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)   ![GitHub](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)   ![GitHub](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)   
