@@ -1,13 +1,13 @@
 Hi, I'm Hamed 👋  
-🔭 I’m currently working on:
+I’m currently working on:
 - The application of AI in EE
 - Reinforcement learning
 - Deep learning
 - Machine learning
 - Data science
 
-🌱 I graduated with a master’s degree in Electrical Engineering from Shahid Beheshti University  
-📫 You can reach me:  
+I graduated with a master’s degree in Electrical Engineering from Shahid Beheshti University  
+You can reach me:  
 Email: hamedmokazemi@gmail.com  
 [![Website](https://img.shields.io/badge/site:-abouthamed.com-blue?style=flat-square)](https://abouthamed.com)  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/hamedmokazemi/)  
