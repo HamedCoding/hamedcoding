@@ -10,7 +10,7 @@ Hi, I'm **Hamed** 👋
   
 **You can reach me:**  
 [![Website](https://img.shields.io/badge/Email:-hamedmokazemi@gmail.com-C51A4A?style=flat-square)](mailto:hamedmokazemi@gmail.com)  
-[![Website](https://img.shields.io/badge/site:-abouthamed.com-blue?style=flat-square)](https://abouthamed.com)  
+[![Website](https://img.shields.io/badge/Site:-abouthamed.com-blue?style=flat-square)](https://abouthamed.com)  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/hamedmokazemi/)  
 [![GS](https://img.shields.io/badge/Google%20Scholar-black?style=flat-square)](https://scholar.google.com/citations?hl=en&user=NjtgLrwAAAAJ)  
 [![pubs](https://img.shields.io/badge/Publons-336699?style=flat-square)](https://publons.com/researcher/3963629/hamed-mohammad-kazemi/)  
