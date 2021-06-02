@@ -9,5 +9,5 @@ Hi, I'm Hamed 👋
 🌱 I graduated with a master’s degree in Electrical Engineering from Shahid Beheshti University
 📫 You can reach me: 
 [![Website](https://img.shields.io/badge/abouthamed.com-blue?style=for-the-badge&logo=appveyor)](https://abouthamed.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamedmokazemi/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/hamedmokazemi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamedmokazemi)
