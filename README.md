@@ -18,6 +18,14 @@ Hi, I'm **Hamed** 👋
   
   
   
-My interests:  
+**My interests:**  
 ![GitHub](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)   ![GitHub](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)   ![GitHub](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)   ![GitHub](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg)   ![GitHub](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)   ![GitHub](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)      ![GitHub](https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white)      ![GitHub](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)      ![GitHub](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important)      ![GitHub](https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white
 )      ![GitHub](https://colab.research.google.com/assets/colab-badge.svg)     ![GitHub](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=flat-square&logo=raspberry%20pi&logoColor=white)      
+
+
+**Some of my favorite repositories:**  
+[TD3-BipedalWalker](https://github.com/hamedmokazemi/TD3-BipedalWalker): Twin Delayed DDPG (TD3) learns to play BipedalWalker-v3 (Pytorch / OpenAI)  
+[DeepQLearning FrozenLake v1](https://github.com/hamedmokazemi/DeepQLearning_FrozenLake_1): Deep Q Learning for FrozenLake (Keras / OpenAI)  
+[SmartFilter channel outputs](https://github.com/hamedmokazemi/SmartFilter_channel_outputs): Some of my outputs on my Telegram channel ([@smartfilter](https://t.me/smartfilter))  
+
+[]()
