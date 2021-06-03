@@ -9,7 +9,7 @@ Hi, I'm **Hamed** 👋
 :man_student: I graduated with a master’s degree in Electrical Engineering from Shahid Beheshti University  
   
 **You can reach me:**  
-[![Email](https://img.shields.io/badge/hamedmokazemi@gmail.com-C51A4A?style=flat-square&logo=Gmail)](mailto:hamedmokazemi@gmail.com)  
+[![Email](https://img.shields.io/badge/hamedmokazemi@gmail.com-383838?style=flat-square&logo=Gmail)](mailto:hamedmokazemi@gmail.com)  
 [![Website](https://img.shields.io/badge/Site:-abouthamed.com-blue?style=flat-square)](https://abouthamed.com)  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/hamedmokazemi/)  
 [![GS](https://img.shields.io/badge/Google%20Scholar-black?style=flat-square&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=NjtgLrwAAAAJ)  
