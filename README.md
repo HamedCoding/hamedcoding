@@ -36,6 +36,6 @@ Hi, I'm **Hamed** 👋
 [Crude Oil WTI Futures Price](https://github.com/hamedmokazemi/Crude-Oil-WTI-Futures-Price): Plotting Price and EMA of Crude Oil  
 [BTC-USD chart](https://github.com/hamedmokazemi/BTC-USD_chart): Plotting BTC-USD chart and its RSI, MACD, Moving Averages, and Volume  
 [CartPole v1](https://github.com/hamedmokazemi/CartPole-v1): Deep Q Learning for CartPole-v1 (Pytorch / OpenAI)  
-[Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression): 
+[Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression):  
 [Linear Regression](https://github.com/hamedmokazemi/LinearRegression): 
 
