@@ -34,3 +34,8 @@ Hi, I'm **Hamed** 👋
 [Michigan Temp](https://github.com/hamedmokazemi/Michigan_Temp): Data Representation of Michigan Temperature  
 [K nearest neighbors](https://github.com/hamedmokazemi/k_nearest_neighbors): KNN Algorithm  
 [Crude Oil WTI Futures Price](https://github.com/hamedmokazemi/Crude-Oil-WTI-Futures-Price): Plotting Price and EMA of Crude Oil  
+[BTC-USD chart](https://github.com/hamedmokazemi/BTC-USD_chart): Plotting BTC-USD chart and its RSI, MACD, Moving Averages, and Volume  
+[CartPole v1](https://github.com/hamedmokazemi/CartPole-v1): Deep Q Learning for CartPole-v1 (Pytorch / OpenAI)  
+[Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression): 
+[Linear Regression](https://github.com/hamedmokazemi/LinearRegression): 
+
