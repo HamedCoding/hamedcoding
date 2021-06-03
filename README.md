@@ -32,10 +32,10 @@ Hi, I'm **Hamed** 👋
 [Airbnb Data Analysis](https://github.com/hamedmokazemi/Airbnb_Data_Analysis): Data Analysis of New York City Airbnb  
 [Power Consumption](https://github.com/hamedmokazemi/Power_Consumption): LSTM for Power Consumption (Keras)  
 [Michigan Temp](https://github.com/hamedmokazemi/Michigan_Temp): Data Representation of Michigan Temperature  
-[K Nearest Neighbors](https://github.com/hamedmokazemi/k_nearest_neighbors): KNN Algorithm  
+[K Nearest Neighbors](https://github.com/hamedmokazemi/k_nearest_neighbors): KNN Algorithm (Scikit-learn)  
 [Crude Oil WTI Futures Price](https://github.com/hamedmokazemi/Crude-Oil-WTI-Futures-Price): Plotting Price and EMA of Crude Oil  
 [BTC-USD chart](https://github.com/hamedmokazemi/BTC-USD_chart): Plotting BTC-USD chart and its RSI, MACD, Moving Averages, and Volume  
 [CartPole v1](https://github.com/hamedmokazemi/CartPole-v1): Deep Q Learning for CartPole-v1 (Pytorch / OpenAI)  
-[Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression): Logistic Regression for Titanic dataset  
-[Linear Regression](https://github.com/hamedmokazemi/LinearRegression): Predicting the USA housing price with the help of scikit-learn, standard scaler and cross-validation  
+[Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression): Logistic Regression for Titanic dataset (Scikit-learn)  
+[Linear Regression](https://github.com/hamedmokazemi/LinearRegression): Predicting the USA housing price with the help of scikit-learn, standard scaler and cross-validation   (Scikit-learn)    
 
