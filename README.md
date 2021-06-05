@@ -28,7 +28,7 @@ Hi, I'm **Hamed** 👋
 [TD3-BipedalWalker](https://github.com/hamedmokazemi/TD3-BipedalWalker): Twin Delayed DDPG (TD3) learns to play BipedalWalker-v3 (Pytorch / OpenAI)  
 [DeepQLearning FrozenLake v1](https://github.com/hamedmokazemi/DeepQLearning_FrozenLake_1): Deep Q Learning plays FrozenLake (Keras / OpenAI)  
 [Q Learning Taxi](https://github.com/hamedmokazemi/QLearning_Taxi): Q Learning plays Taxi-v3 (OpenAI)  
-[SmartFilter channel outputs](https://github.com/hamedmokazemi/SmartFilter_channel_outputs): Some of my outputs on my Telegram channel ([@smartfilter](https://t.me/smartfilter))  
+[SmartFilter channel outputs](https://github.com/hamedmokazemi/SmartFilter_channel_outputs): Data analysis of Tehran Stock Exchange (My Telegram channel: ([@smartfilter](https://t.me/smartfilter)))  
 [CoinanceBot report](https://github.com/hamedmokazemi/CoinanceBot_report): Description of my cryptocurrency Telegram bot ([@CoinanceBot](https://t.me/CoinanceBot))  
 [Airbnb Data Analysis](https://github.com/hamedmokazemi/Airbnb_Data_Analysis): Data Analysis of New York City Airbnb  
 [Power Consumption](https://github.com/hamedmokazemi/Power_Consumption): LSTM for Power Consumption (Keras)  
