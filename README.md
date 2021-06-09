@@ -2,7 +2,7 @@
 Hi, I'm **Hamed** 👋  
 :dart: I’m currently working on:
 - The application of AI in EE
-- Reinforcement learning
+- Deep Reinforcement learning
 - Deep learning
 - Machine learning
 - Data science
