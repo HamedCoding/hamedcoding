@@ -8,7 +8,7 @@ Hi, I'm **Hamed** 👋
 - Data science
 
 :man_student: I graduated with a master’s degree in Electrical Engineering from Shahid Beheshti University  
-I will share some of my codes here  
+I will share some of my codes here.  
   
 **You can reach me:**  
 [![Email](https://img.shields.io/badge/hamedmokazemi@gmail.com-black?style=flat-square&logo=Gmail&logoColor=EA4335)](mailto:hamedmokazemi@gmail.com)  
