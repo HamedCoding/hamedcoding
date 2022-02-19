@@ -28,14 +28,10 @@ I will share some of my codes here.
 [TD3-BipedalWalker](https://github.com/hamedmokazemi/TD3-BipedalWalker): Twin Delayed DDPG (TD3) learns to play BipedalWalker-v3 (Pytorch / OpenAI)  
 [DeepQLearning FrozenLake v1](https://github.com/hamedmokazemi/DeepQLearning_FrozenLake_1): Deep Q Learning plays FrozenLake (Keras / OpenAI)  
 [Q Learning Taxi](https://github.com/hamedmokazemi/QLearning_Taxi): Q Learning plays Taxi-v3 (OpenAI)  
-[SmartFilter channel outputs](https://github.com/hamedmokazemi/SmartFilter_channel_outputs): Data analysis of Tehran Stock Exchange (My Telegram channel: [@smartfilter](https://t.me/smartfilter))  
-[CoinanceBot report](https://github.com/hamedmokazemi/CoinanceBot_report): Description of my cryptocurrency Telegram bot ([@CoinanceBot](https://t.me/CoinanceBot))  
 [Airbnb Data Analysis](https://github.com/hamedmokazemi/Airbnb_Data_Analysis): Data Analysis of New York City Airbnb  
 [Power Consumption](https://github.com/hamedmokazemi/Power_Consumption): LSTM for Power Consumption (Keras)  
 [Michigan Temp](https://github.com/hamedmokazemi/Michigan_Temp): Data Representation of Michigan Temperature  
 [K Nearest Neighbors](https://github.com/hamedmokazemi/k_nearest_neighbors): KNN Algorithm (Scikit-learn)  
-[Crude Oil WTI Futures Price](https://github.com/hamedmokazemi/Crude-Oil-WTI-Futures-Price): Plotting Price and EMA of Crude Oil  
-[BTC-USD chart](https://github.com/hamedmokazemi/BTC-USD_chart): Plotting BTC-USD chart and its RSI, MACD, Moving Averages, and Volume  
 [CartPole v1](https://github.com/hamedmokazemi/CartPole-v1): Deep Q Learning for CartPole-v1 (Pytorch / OpenAI)  
 [Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression): Logistic Regression for Titanic dataset (Scikit-learn)  
 [Linear Regression](https://github.com/hamedmokazemi/LinearRegression): Predicting the USA housing price with the help of scikit-learn, standard scaler and cross-validation   (Scikit-learn)    
