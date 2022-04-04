@@ -8,7 +8,6 @@ Hi, I'm **Hamed** 👋
 - Data science
 
 :man_student: I graduated with a master’s degree in Electrical Engineering from Shahid Beheshti University  
-I will share some of my codes here.  
   
 **You can reach me:**  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/hamedmokazemi/)  
