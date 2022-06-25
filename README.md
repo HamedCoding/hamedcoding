@@ -1,7 +1,7 @@
 ## Hamed Mohammad Kazemi 👨‍💻
 Hi, I'm **Hamed** 👋  
 :dart: I’m currently working on:
-- The application of AI in EE
+- The application of Machine Learning in EE
 - Deep learning
 - Machine learning
 - Data science
