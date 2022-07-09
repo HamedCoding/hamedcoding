@@ -33,11 +33,11 @@ Hi, I'm **Hamed** 👋
 [CartPole v1](https://github.com/hamedmokazemi/CartPole-v1): Deep Q Learning for CartPole-v1 (Pytorch / OpenAI)  
   
 **Deep Learning**  
-[Power Consumption](https://github.com/hamedmokazemi/Power_Consumption): LSTM for Power Consumption (Keras)  
+[Power Consumption](https://github.com/hamedmokazemi/Power_Consumption): Using Keras, LSTM, preprocessing, data transormation, seaborn, matplotlib, and pandas.  
   
 **Data Analysis**  
-[Airbnb Data Analysis](https://github.com/hamedmokazemi/Airbnb_Data_Analysis): Data Analysis of New York City Airbnb  
-[Michigan Temp](https://github.com/hamedmokazemi/Michigan_Temp): Data Representation of Michigan Temperature  
+[Airbnb Data Analysis](https://github.com/hamedmokazemi/Airbnb_Data_Analysis): Including preprocessing and data visualization. Using seaborn pandas, marplotlib, and geopandas.  
+[Michigan Temp](https://github.com/hamedmokazemi/Michigan_Temp): data visualization using matplotlib and pandas  
 
 
 
