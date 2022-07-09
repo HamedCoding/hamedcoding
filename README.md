@@ -26,7 +26,7 @@ Hi, I'm **Hamed** 👋
 **Regression:**  
 [Linear Regression](https://github.com/hamedmokazemi/LinearRegression): Predicting the USA housing price with the help of scikit-learn, standard scaler and cross-validation   (Scikit-learn)  
   
-**Reinforcement Learning**
+**Reinforcement Learning**  
 [TD3-BipedalWalker](https://github.com/hamedmokazemi/TD3-BipedalWalker): Twin Delayed DDPG (TD3) learns to play BipedalWalker-v3 (Pytorch / OpenAI)  
 [DeepQLearning FrozenLake v1](https://github.com/hamedmokazemi/DeepQLearning_FrozenLake_1): Deep Q Learning plays FrozenLake (Keras / OpenAI)  
 [Q Learning Taxi](https://github.com/hamedmokazemi/QLearning_Taxi): Q Learning plays Taxi-v3 (OpenAI)  
