@@ -36,7 +36,7 @@ Hi, I'm **Hamed** 👋
 [Power Consumption](https://github.com/hamedmokazemi/Power_Consumption): Using Keras, LSTM, preprocessing, data transormation, seaborn, matplotlib, and pandas.  
   
 **Data Analysis**  
-[Airbnb Data Analysis](https://github.com/hamedmokazemi/Airbnb_Data_Analysis): Including preprocessing and data visualization. Using seaborn pandas, marplotlib, and geopandas.  
+[Airbnb Data Analysis](https://github.com/hamedmokazemi/Airbnb_Data_Analysis): Including preprocessing and data visualization. Using seaborn pandas, matplotlib, and geopandas.  
 [Michigan Temp](https://github.com/hamedmokazemi/Michigan_Temp): data visualization using matplotlib and pandas  
 
 
