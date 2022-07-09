@@ -35,7 +35,7 @@ Hi, I'm **Hamed** 👋
 **Deep Learning**  
 [Power Consumption](https://github.com/hamedmokazemi/Power_Consumption): LSTM for Power Consumption (Keras)  
   
-*Data Analysis**  
+**Data Analysis**  
 [Airbnb Data Analysis](https://github.com/hamedmokazemi/Airbnb_Data_Analysis): Data Analysis of New York City Airbnb  
 [Michigan Temp](https://github.com/hamedmokazemi/Michigan_Temp): Data Representation of Michigan Temperature  
 
