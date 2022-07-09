@@ -20,11 +20,11 @@ Hi, I'm **Hamed** 👋
 
 **Some repositories:**  
 **Classification:**  
-[Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression): Including data cleaning, resampling, model selection, and model evaluation(validation and test data). Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.  
-[K Nearest Neighbors](https://github.com/hamedmokazemi/k_nearest_neighbors): Including resampling, data transormation, resampling, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.  
+[Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression): Including data cleaning, resampling, data visualization, model selection, and model evaluation(validation and test data). Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.  
+[K Nearest Neighbors](https://github.com/hamedmokazemi/k_nearest_neighbors): Including resampling, data transormation, data visualization, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.  
   
 **Regression:**  
-[Linear Regression](https://github.com/hamedmokazemi/LinearRegression): Predicting the USA housing price with the help of scikit-learn, standard scaler and cross-validation   (Scikit-learn)  
+[Linear Regression](https://github.com/hamedmokazemi/LinearRegression): Including data cleaning, resampling, data visualization, cross-validation, ridge regression, lasso regression, polynomial regression, linear regression, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.   
   
 **Reinforcement Learning**  
 [TD3-BipedalWalker](https://github.com/hamedmokazemi/TD3-BipedalWalker): Twin Delayed DDPG (TD3) learns to play BipedalWalker-v3 (Pytorch / OpenAI)  
