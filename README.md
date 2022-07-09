@@ -20,7 +20,7 @@ Hi, I'm **Hamed** 👋
 
 **Some repositories:**  
 **Classification:**  
-[Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression): Logistic Regression for Titanic dataset (Scikit-learn)  
+[Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression): including data cleaning, resampling, model selection, model evaluation(validation and test data). Using Scikit-learn, seaborn, pandas, matplotlib, and numpy  
 [K Nearest Neighbors](https://github.com/hamedmokazemi/k_nearest_neighbors): KNN Algorithm (Scikit-learn)  
   
 **Regression:**  
