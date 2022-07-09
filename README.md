@@ -20,8 +20,8 @@ Hi, I'm **Hamed** 👋
 
 **Some repositories:**  
 **Classification:**  
-[Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression): including data cleaning, resampling, model selection, model evaluation(validation and test data). Using Scikit-learn, seaborn, pandas, matplotlib, and numpy  
-[K Nearest Neighbors](https://github.com/hamedmokazemi/k_nearest_neighbors): KNN Algorithm (Scikit-learn)  
+[Logistic Regression](https://github.com/hamedmokazemi/LogisticRegression): Including data cleaning, resampling, model selection, and model evaluation(validation and test data). Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.  
+[K Nearest Neighbors](https://github.com/hamedmokazemi/k_nearest_neighbors): KNN Algorithm (Scikit-learn): Including resampling, data transormation, resampling, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.  
   
 **Regression:**  
 [Linear Regression](https://github.com/hamedmokazemi/LinearRegression): Predicting the USA housing price with the help of scikit-learn, standard scaler and cross-validation   (Scikit-learn)  
