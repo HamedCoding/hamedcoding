@@ -7,9 +7,9 @@ Hi, I'm **Hamed** 👋
 - Data science
   
 **You can reach me:**  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/hamedmokazemi/)  
-[![GS](https://img.shields.io/badge/Google%20Scholar-black?style=flat-square&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=NjtgLrwAAAAJ)  
-[![pubs](https://img.shields.io/badge/Publons-336699?style=flat-square&logo=Publons)](https://publons.com/researcher/3963629/hamed-mohammad-kazemi/)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/hamedmokazemi/) 
+[![GS](https://img.shields.io/badge/Google%20Scholar-black?style=flat-square&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=NjtgLrwAAAAJ) 
+[![pubs](https://img.shields.io/badge/Publons-336699?style=flat-square&logo=Publons)](https://publons.com/researcher/3963629/hamed-mohammad-kazemi/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=GitHub)](https://github.com/hamedmokazemi)  
   
   
