@@ -24,7 +24,7 @@ Hi, I'm **Hamed** 👋
 [K Nearest Neighbors](https://github.com/hamedmokazemi/k_nearest_neighbors): Including resampling, data transormation, data visualization, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.  
   
 **Regression:**  
-[Linear Regression](https://github.com/hamedmokazemi/LinearRegression): Including data cleaning, resampling, data visualization, cross-validation, ridge regression, lasso regression, polynomial regression, linear regression, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.   
+[Polynomial and Linear Regression](https://github.com/hamedmokazemi/LinearRegression): Including data cleaning, resampling, data visualization, cross-validation, ridge regression, lasso regression, polynomial regression, linear regression, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.   
   
 **Deep Reinforcement Learning**  
 [TD3-BipedalWalker](https://github.com/hamedmokazemi/TD3-BipedalWalker): Twin Delayed DDPG (TD3) learns to play BipedalWalker-v3 (Pytorch / OpenAI)  
