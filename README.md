@@ -28,20 +28,21 @@ Hi, I'm **Hamed** 👋
   
 **Deep Reinforcement Learning**  
 [TD3-BipedalWalker](https://github.com/hamedmokazemi/TD3-BipedalWalker): Twin Delayed DDPG (TD3) learns to play BipedalWalker-v3 (Pytorch / OpenAI)  
-[DeepQLearning FrozenLake v1](https://github.com/hamedmokazemi/DeepQLearning_FrozenLake_1): Deep Q Learning plays FrozenLake (Keras / OpenAI)  
-[CartPole v1](https://github.com/hamedmokazemi/CartPole-v1): Deep Q Learning for CartPole-v1 (Pytorch / OpenAI)  
+[Deep Q Learning FrozenLake v1](https://github.com/hamedmokazemi/DeepQLearning_FrozenLake_1): Deep Q Learning plays FrozenLake (Keras / OpenAI)  
+[Deep Q Learning CartPole v1](https://github.com/hamedmokazemi/CartPole-v1): Deep Q Learning for CartPole-v1 (Pytorch / OpenAI)  
   
 **Reinforcement Learning**  
 [Q Learning Taxi](https://github.com/hamedmokazemi/QLearning_Taxi): Q Learning plays Taxi-v3 (OpenAI)  
   
 **Deep Learning**  
-[Power Consumption](https://github.com/hamedmokazemi/Power_Consumption): Using Keras, LSTM, preprocessing, data transormation, seaborn, matplotlib, and pandas.  
-  
+[Convolutional Neural Networks](https://github.com/hamedmokazemi/CNN): Using Keras, Convolutional Neural Networks, preprocessing, data transormation, data augmentation, matplotlib, and pandas.  
+[LSTM - Power Consumption](https://github.com/hamedmokazemi/Power_Consumption): Using Keras, LSTM, preprocessing, data transormation, seaborn, matplotlib, and pandas.  
+
 **Data Analysis**  
-[Airbnb Data Analysis](https://github.com/hamedmokazemi/Airbnb_Data_Analysis): Including preprocessing and data visualization. Using seaborn pandas, matplotlib, and geopandas.  
-[Michigan Temp](https://github.com/hamedmokazemi/Michigan_Temp): data visualization using matplotlib and pandas  
+[Data Analysis - Airbnb](https://github.com/hamedmokazemi/Airbnb_Data_Analysis): Including preprocessing and data visualization. Using seaborn pandas, matplotlib, and geopandas.  
+[data visualization - Michigan Temperature](https://github.com/hamedmokazemi/Michigan_Temp): data visualization using matplotlib and pandas  
 
 
-
+https://github.com/hamedmokazemi/CNN
 
 
