@@ -1,4 +1,3 @@
-## Hamed Mohammad Kazemi 👨‍💻
 Hi, I'm **Hamed** 👋  
 :dart: I’m currently working on:
 - Applying Machine Learning methods to EE
