@@ -18,7 +18,6 @@ Hi, I'm **Hamed** 👋
 [Polynomial and Linear Regression](https://github.com/hamedmokazemi/LinearRegression): Including data cleaning, resampling, data visualization, cross-validation, ridge regression, lasso regression, polynomial regression, linear regression, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.   
   
 **Deep Reinforcement Learning**  
-[TD3-BipedalWalker](https://github.com/hamedmokazemi/TD3-BipedalWalker): Twin Delayed DDPG (TD3) learns to play BipedalWalker-v3 (Pytorch / OpenAI)  
 [Deep Q Learning FrozenLake v1](https://github.com/hamedmokazemi/DeepQLearning_FrozenLake_1): Deep Q Learning plays FrozenLake (Keras / OpenAI)  
 [Deep Q Learning CartPole v1](https://github.com/hamedmokazemi/CartPole-v1): Deep Q Learning for CartPole-v1 (Pytorch / OpenAI)  
   
