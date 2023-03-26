@@ -1,6 +1,6 @@
 Hi, I'm **Hamed** 👋  
 :dart: I’m currently working on:
-- Applying Machine Learning methods to Electrical Engineering topics (Wind and Photocoltaic systems)
+- Applying Machine Learning methods to Electrical Engineering topics (Wind and Photovoltaic systems)
 - Deep learning
 - Machine learning
 - Data science
