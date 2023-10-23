@@ -18,12 +18,13 @@ Hi, I'm **Hamed** 👋
 [Polynomial and Linear Regression](https://github.com/hamedcoding/LR): Including data cleaning, resampling, data visualization, cross-validation, ridge regression, lasso regression, polynomial regression, linear regression, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.   
   
 **Deep Reinforcement Learning**  
+[TD3-BipedalWalker](https://github.com/hamedcoding/TD3): TD3 plays BipedalWalker-v3 (OpenAI)  
 [Deep Q Learning FrozenLake v1](https://github.com/hamedcoding/DQLFrozenLake): Deep Q Learning plays FrozenLake (Keras / OpenAI)  
 [Deep Q Learning CartPole v1](https://github.com/hamedcoding/CartPole): Deep Q Learning for CartPole-v1 (Pytorch / OpenAI)  
   
 **Reinforcement Learning**  
-[Q Learning Taxi](https://github.com/hamedcoding/QL_Taxi): Q Learning plays Taxi-v3 (OpenAI)  
-  
+[Q Learning Taxi](https://github.com/hamedcoding/QL_Taxi): Q Learning plays Taxi-v3 (OpenAI)   
+
 **Deep Learning**  
 [Convolutional Neural Networks](https://github.com/hamedcoding/ConvNN): Using Keras, Convolutional Neural Networks, preprocessing, data transormation, data augmentation, matplotlib, and pandas.  
 [LSTM - Power Consumption](https://github.com/hamedcoding/Power): Using Keras, LSTM, preprocessing, data transormation, seaborn, matplotlib, and pandas.  
