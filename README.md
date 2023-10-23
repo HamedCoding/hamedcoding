@@ -32,3 +32,4 @@ Hi, I'm **Hamed** 👋
 **Data Analysis**  
 [Data Analysis - Airbnb](https://github.com/hamedcoding/Airbnb): Including preprocessing and data visualization. Using seaborn pandas, matplotlib, and geopandas.  
 [Data Visualization - Michigan Temperature](https://github.com/hamedcoding/MichTemp): data visualization using matplotlib and pandas  
+[BTC-USD chart](https://github.com/hamedcoding/BTCUSD): data visualization using mplfinance and pandas  
