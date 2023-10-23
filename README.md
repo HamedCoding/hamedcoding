@@ -11,23 +11,23 @@ Hi, I'm **Hamed** 👋
 
 **Some Simple Projects:**  
 **Classification:**  
-[Logistic Regression](https://github.com/hamed894/LogR): Including data cleaning, resampling, data visualization, model selection, and model evaluation(validation and test data). Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.  
-[K Nearest Neighbors](https://github.com/hamed894/KNN): Including resampling, data transormation, data visualization, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.  
+[Logistic Regression](https://github.com/hamedcoding/LogR): Including data cleaning, resampling, data visualization, model selection, and model evaluation(validation and test data). Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.  
+[K Nearest Neighbors](https://github.com/hamedcoding/KNN): Including resampling, data transormation, data visualization, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.  
   
 **Regression:**  
-[Polynomial and Linear Regression](https://github.com/hamed894/LR): Including data cleaning, resampling, data visualization, cross-validation, ridge regression, lasso regression, polynomial regression, linear regression, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.   
+[Polynomial and Linear Regression](https://github.com/hamedcoding/LR): Including data cleaning, resampling, data visualization, cross-validation, ridge regression, lasso regression, polynomial regression, linear regression, model selection, and model evaluation. Using Scikit-learn, seaborn, pandas, matplotlib, and numpy.   
   
 **Deep Reinforcement Learning**  
-[Deep Q Learning FrozenLake v1](https://github.com/hamed894/DQLFrozenLake): Deep Q Learning plays FrozenLake (Keras / OpenAI)  
-[Deep Q Learning CartPole v1](https://github.com/hamed894/CartPole): Deep Q Learning for CartPole-v1 (Pytorch / OpenAI)  
+[Deep Q Learning FrozenLake v1](https://github.com/hamedcoding/DQLFrozenLake): Deep Q Learning plays FrozenLake (Keras / OpenAI)  
+[Deep Q Learning CartPole v1](https://github.com/hamedcoding/CartPole): Deep Q Learning for CartPole-v1 (Pytorch / OpenAI)  
   
 **Reinforcement Learning**  
-[Q Learning Taxi](https://github.com/hamed894/QL_Taxi): Q Learning plays Taxi-v3 (OpenAI)  
+[Q Learning Taxi](https://github.com/hamedcoding/QL_Taxi): Q Learning plays Taxi-v3 (OpenAI)  
   
 **Deep Learning**  
-[Convolutional Neural Networks](https://github.com/hamed894/ConvNN): Using Keras, Convolutional Neural Networks, preprocessing, data transormation, data augmentation, matplotlib, and pandas.  
-[LSTM - Power Consumption](https://github.com/hamed894/Power): Using Keras, LSTM, preprocessing, data transormation, seaborn, matplotlib, and pandas.  
+[Convolutional Neural Networks](https://github.com/hamedcoding/ConvNN): Using Keras, Convolutional Neural Networks, preprocessing, data transormation, data augmentation, matplotlib, and pandas.  
+[LSTM - Power Consumption](https://github.com/hamedcoding/Power): Using Keras, LSTM, preprocessing, data transormation, seaborn, matplotlib, and pandas.  
 
 **Data Analysis**  
-[Data Analysis - Airbnb](https://github.com/hamed894/Airbnb): Including preprocessing and data visualization. Using seaborn pandas, matplotlib, and geopandas.  
-[Data Visualization - Michigan Temperature](https://github.com/hamed894/MichTemp): data visualization using matplotlib and pandas  
+[Data Analysis - Airbnb](https://github.com/hamedcoding/Airbnb): Including preprocessing and data visualization. Using seaborn pandas, matplotlib, and geopandas.  
+[Data Visualization - Michigan Temperature](https://github.com/hamedcoding/MichTemp): data visualization using matplotlib and pandas  
